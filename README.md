@@ -8,7 +8,7 @@ var monglo = require('monglo').Monglo;
 var db = monglo('DemoDB');
 
 //Load the store in Monglo
-db.use('store', tistore
+db.use('store', tistore);
 ```
 
 ## License
