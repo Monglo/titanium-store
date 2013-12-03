@@ -1,0 +1,14 @@
+{
+  "name": "titanium-store",
+  "repo": "Monglo/titanium-store",
+  "description": "Titanium File Based MongloDB Store",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
