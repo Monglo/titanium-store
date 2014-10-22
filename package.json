@@ -1,0 +1,26 @@
+{
+  "name": "titanium-store",
+  "version": "1.0.0",
+  "description": "Titanium Store for monglodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Monglo/titanium-store.git"
+  },
+  "keywords": [
+    "monglodb",
+    "mongo"
+  ],
+  "author": "Christian Sullivan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Monglo/titanium-store/issues"
+  },
+  "homepage": "https://github.com/Monglo/titanium-store",
+  "dependencies": {
+    "component": "^1.0.0-rc7"
+  }
+}
